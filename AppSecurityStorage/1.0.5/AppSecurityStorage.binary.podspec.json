@@ -1,0 +1,29 @@
+{
+  "name": "AppSecurityStorage",
+  "version": "1.0.5",
+  "summary": "A KeyChain security storage software.",
+  "homepage": "http://gitlab.yeahka.com/App/iOS/Modules/AppSecurityStorage",
+  "license": "MIT",
+  "authors": {
+    "Matt Cai": "matt@yeaka.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://localhost:8081/frameworks/AppSecurityStorage/1.0.5/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_AppSecurityStorage_1.0.5/Headers/*",
+  "frameworks": [
+    "Security",
+    "Foundation"
+  ],
+  "pod_target_xcconfig": {
+    "ENABLE_BITCODE": "NO"
+  },
+  "requires_arc": true,
+  "public_header_files": "bin_AppSecurityStorage_1.0.5/Headers/*.h",
+  "vendored_libraries": "bin_AppSecurityStorage_1.0.5/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
