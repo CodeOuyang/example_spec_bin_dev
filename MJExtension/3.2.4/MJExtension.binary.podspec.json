@@ -1,0 +1,23 @@
+{
+  "name": "MJExtension",
+  "version": "3.2.4",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "A fast and convenient conversion between JSON and model",
+  "homepage": "https://github.com/CoderMJLee/MJExtension",
+  "license": "MIT",
+  "authors": {
+    "MJ Lee": "richermj123go@vip.qq.com"
+  },
+  "social_media_url": "http://weibo.com/exceptions",
+  "source": {
+    "http": "http://localhost:8081/frameworks/MJExtension/3.2.4/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_MJExtension_3.2.4/Headers/*",
+  "requires_arc": true,
+  "public_header_files": "bin_MJExtension_3.2.4/Headers/*.h",
+  "vendored_libraries": "bin_MJExtension_3.2.4/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
