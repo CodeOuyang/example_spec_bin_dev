@@ -1,0 +1,22 @@
+{
+  "name": "YBHandyList",
+  "version": "1.0.5",
+  "summary": "让 UITableView / UICollectionView 更加简单优雅，轻易实现列表动态化、模块化、MVVM 架构",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 让 UITableView / UICollectionView 更加简单优雅，轻易实现列表动态化、模块化、MVVM 架构。",
+  "homepage": "https://github.com/indulgeIn",
+  "license": "MIT",
+  "authors": {
+    "杨波": "1106355439@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://localhost:8081/frameworks/YBHandyList/1.0.5/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_YBHandyList_1.0.5/Headers/*",
+  "requires_arc": true,
+  "public_header_files": "bin_YBHandyList_1.0.5/Headers/*.h",
+  "vendored_libraries": "bin_YBHandyList_1.0.5/*.a"
+}
